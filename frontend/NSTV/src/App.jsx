@@ -6,7 +6,7 @@ import Category from "./pages/Category";
 import NewsDetails from "./pages/NewsDetails";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import PrivacyPolicy from "./pages/PrivacyPolicy";
+import PrivacyPolicy from "./pages/Privacy-Policy";
 
 function App() {
   return (
