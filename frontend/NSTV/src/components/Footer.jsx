@@ -17,6 +17,7 @@ function Footer() {
           <a href="/">Home</a>
           <a href="/about">About</a>
           <a href="/contact">Contact</a>
+          <a href="/privacy-policy">Privacy Policy</a>
         </div>
 
         {/* Categories */}
